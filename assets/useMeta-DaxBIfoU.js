@@ -1,0 +1,1 @@
+import{n as e}from"./createLucideIcon-0w7RYKPJ.js";var t=({title:t,description:n,keywords:r})=>{e({title:t,meta:[{name:`description`,content:n},{name:`keywords`,content:r.join(`, `)}]})};export{t};
